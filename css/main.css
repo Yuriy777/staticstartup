@@ -2235,7 +2235,9 @@ section.general-th .bottom-background:after {
       margin-bottom: 50px; } }
 
 .general-eight .lsc-text {
-  font-size: 72px; }
+  font-size: 72px;
+  color: #fece0b;
+  text-shadow: 0 4px 3px rgba(50, 75, 102, 0.15); }
   .general-eight .lsc-text span {
     color: #fff; }
   .general-eight .lsc-text p {
