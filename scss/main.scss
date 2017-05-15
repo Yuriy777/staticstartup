@@ -911,6 +911,7 @@ body {
 .ltext {
   font-weight: normal;
   font-size: 0.8em;
+  display: block!important;
 }
 section.general-th {
   @include media ('<=desktop') {
